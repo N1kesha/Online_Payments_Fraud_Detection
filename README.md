@@ -1,6 +1,6 @@
 # Online Payments Fraud Detection Project
 
-Detecting fraudulent online transactions is a crucial task, since it is aimed at protecting financial systems and personal data of users. Machine learning plays a key role in this project, as it allows us to analyze big amounts of data, identify hidden patterns and patterns that may indicate fraudulent activity.
+Detecting fraudulent online transactions is a crucial task, since it is aimed at protecting financial systems and personal data of users.
 
 In this project I implemented CatBoost Classifier, the Yandex's Gradient Boosting model which is based on Decision Trees. ROC AUC of fine-tuned model equals 0.985 on test dataset and 0.999 on train dataset, considering that I also used validation dataset for finding optimal hyperparameters.
 
