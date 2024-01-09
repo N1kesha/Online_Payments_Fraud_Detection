@@ -1,5 +1,7 @@
 # Online Payments Fraud Detection Project
 
-To identify online payment fraud with machine learning, we need to train a machine learning model for classifying fraudulent and non-fraudulent payments. For this, we need a dataset containing information about online payment fraud, so that we can understand what type of transactions lead to fraud. For this task, I collected a dataset from Kaggle, which contains historical information about fraudulent transactions which can be used to detect fraud in online payments. 
+Detecting fraudulent online transactions is a crucial task, since it is aimed at protecting financial systems and personal data of users. 
+
+Machine learning can play a key role in this project, as it allows you to analyze big amounts of data, identify hidden patterns and patterns that may indicate fraudulent activity.
 
 Data: https://www.kaggle.com/datasets/jainilcoder/online-payment-fraud-detection
