@@ -2,7 +2,7 @@
 
 Detecting fraudulent online transactions is a crucial task, since it is aimed at protecting financial systems and personal data of users.
 
-In this project I implemented CatBoost Classifier, the Yandex's Gradient Boosting model which is based on Decision Trees. ROC AUC of my best model equals 0.985 on test dataset and 0.999 on train dataset, considering that I also used validation dataset for finding optimal hyperparameters. Recall, the main business metric in such type of problems, equals 0.971 on test dataset.
+In this project I implemented CatBoost Classifier, the Yandex's Gradient Boosting model which is based on Decision Trees. ROC AUC of my best model equals 0.985 on test dataset and 0.999 on both train and evaluation datasets. Recall, the main business metric in such type of problems, equals 0.971 on test dataset.
 
 Data: https://www.kaggle.com/datasets/jainilcoder/online-payment-fraud-detection
 
